@@ -1,4 +1,68 @@
 /* Example styling of a h1 element */
+body {
+  background-color: #ffffff;
+  padding: 20px;
+  width: 600px;
+}
+
 h1 {
-  color: #0025FF;
+  color: #464747;
+  font-size: 52px;
+  letter-spacing: 1px;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+h3 {
+  color: #464747;
+  font-size: 30px;
+  letter-spacing: 1px;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+ul {
+  font-size: 16px;
+  font-family: 'Rajdhani', sans-serif;
+  letter-spacing: 1px;
+}
+
+a { 
+  text-decoration: none;
+}
+
+.larger-text {
+  font-size: 16px;
+  line-height: 1.6;
+  font-family: 'Rajdhani', sans-serif;
+  letter-spacing: 1px;
+}
+
+.ingress {
+  color: #252626;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 1.6;
+  font-family: 'Rajdhani', sans-serif;
+  letter-spacing: 1px;
+}
+
+.learn-more {
+  padding: 30px;
+}
+
+.grey-box {
+  background-color: #f5f6fa;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 30px;
+  width: 100%;
+}
+
+.footer {
+  font-size: 12px;
+  font-family: 'Rajdhani', sans-serif;
+  letter-spacing: 1px;
+  padding: 20px;
+  width: 600px;
 }
